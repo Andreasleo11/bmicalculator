@@ -32,7 +32,7 @@ You can see a live demo of the BMI Calculator [here](#).
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bmi-calculator.git
+    git clone https://github.com/yourusername/bmicalculator.git
     ```
 
 2. Navigate to the project directory:
