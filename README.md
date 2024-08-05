@@ -37,7 +37,7 @@ You can see a live demo of the BMI Calculator [here](#).
 
 2. Navigate to the project directory:
     ```bash
-    cd bmi-calculator
+    cd bmicalculator
     ```
 
 3. Open `index.html` in your web browser to use the BMI Calculator.
